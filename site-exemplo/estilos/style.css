@@ -11,7 +11,7 @@ main{
     background-color: white;
     width: 500px;
     margin: auto;
-    border-radius: 15px;
+    border-radius: 25px;
     padding: 10px;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.493);
 }
@@ -22,4 +22,15 @@ h1{
 h2{
     font-size: 15pt;
     text-align: center;
+}
+img#img1{
+    width: 200pt;
+    height: 100pt;
+    margin-left: 90pt;
+    border-radius: 10px;
+}
+
+img.lado{
+    align-items: flex-end;
+    float: right;
 }
