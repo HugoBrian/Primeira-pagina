@@ -15,6 +15,7 @@ main{
     border-radius: 25px;
     padding: 10px;
     box-shadow: 5px 5px 5px rgb(0, 0, 0);
+    
 }
 h1{
     font-size: 23pt;
@@ -39,4 +40,8 @@ footer{
     color: white;
     margin-top: 15pt;
     text-align: center;
+}
+iframe{
+    margin-left: 25px;
+    width: 450px;
 }
