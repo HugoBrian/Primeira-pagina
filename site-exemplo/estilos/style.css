@@ -2,9 +2,10 @@
     font-family: Arial, Helvetica, sans-serif;
     font-size: 16px;
     color: rgb(2, 110, 11);
+    text-align: left;
 }
 body{
-    background-color: rgb(247, 197, 197);
+    background-color: rgb(103, 179, 96);
 }
 
 main{
@@ -13,7 +14,7 @@ main{
     margin: auto;
     border-radius: 25px;
     padding: 10px;
-    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.493);
+    box-shadow: 5px 5px 5px rgb(0, 0, 0);
 }
 h1{
     font-size: 23pt;
@@ -31,6 +32,6 @@ img#img1{
 }
 
 img.lado{
-    align-items: flex-end;
+    padding: 10px;
     float: right;
 }
