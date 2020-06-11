@@ -1,21 +1,20 @@
 *{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 16px;
-    color: rgb(2, 110, 11);
+    color: rgb(255, 255, 255);
     text-align: left;
 }
 body{
-    background-color: rgb(103, 179, 96);
+    background-color: rgb(255, 255, 255);
 }
 
 main{
-    background-color: white;
+    background-color: rgb(15, 148, 209);
     width: 500px;
     margin: auto;
     border-radius: 25px;
     padding: 10px;
     box-shadow: 5px 5px 5px rgb(0, 0, 0);
-    
 }
 h1{
     font-size: 23pt;
@@ -26,9 +25,9 @@ h2{
     text-align: center;
 }
 img#img1{
-    width: 200pt;
-    height: 100pt;
-    margin-left: 90pt;
+    width: 400px;
+    height: 200px;
+    margin-left: 50px;
     border-radius: 10px;
 }
 
